@@ -152,7 +152,7 @@ Open http://localhost:8501
 ```
 ---
 
-🧪 Example Queries
+## 🧪 Example Queries
 - hello
 - Tell me about Abra
 - Pikachu vs Raichu
@@ -160,7 +160,7 @@ Open http://localhost:8501
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 - Python
 - FastAPI
@@ -182,7 +182,7 @@ Open http://localhost:8501
 
 ---
 
-🌟 Why This Project Stands Out
+## 🌟 Why This Project Stands Out
 
 - Real-world RAG implementation
 
@@ -194,7 +194,7 @@ Open http://localhost:8501
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 - If you like this project, give it a star on GitHub!
 
