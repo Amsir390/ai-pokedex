@@ -150,13 +150,16 @@ streamlit run frontend/streamlit_app.py
 
 Open http://localhost:8501
 ```
+---
+
 🧪 Example Queries
 - hello
 - Tell me about Abra
 - Pikachu vs Raichu
 - What are Solgaleo's abilities?
-```
-```
+
+---
+
 🧰 Tech Stack
 
 - Python
@@ -168,12 +171,16 @@ Open http://localhost:8501
 - Pandas
 - NumPy
 
-##👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 - Ankush Maity
 - B.Tech CSE
 - AI / ML Enthusiast
 - GitHub: [@Amsir390](https://github.com/Amsir390)
+
+---
 
 🌟 Why This Project Stands Out
 
@@ -184,6 +191,8 @@ Open http://localhost:8501
 - Industry-ready architecture
 
 - Strong portfolio and interview project
+
+---
 
 ⭐ Support
 
