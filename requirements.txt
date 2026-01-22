@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+requests
+ollama
